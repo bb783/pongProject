@@ -1,6 +1,6 @@
 # Special thanks to Christian Thompson from FreeCamp.org
-# Original idea from Christian Thompson https://christianthompson.com/ and editied version with additional functions by Brandon Cox bpcox@mtu.edu
-# This is a basic Pong game coding in Python3 with PythonTurtle with additional functions added by me ith the possibility of future additions
+# Original idea from Christian Thompson https://christianthompson.com/ and editied version with additional functions by Brandon Cox bpcox@mtu.edu -- future additions likely
+# Overall the goal of this was to implement a basic Pong game coded in Python3 with PythonTurtle
 
 import turtle
 
